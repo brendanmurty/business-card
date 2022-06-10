@@ -1,13 +1,22 @@
 {
   "name": "brendanmurty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shows basic public contact details for Brendan Murty",
   "main": "index.js",
   "bin": {
     "brendanmurty": "./index.js"
   },
   "scripts": {},
-  "author": "brendanmurty",
+  "author": {
+    "name": "Brendan Murty",
+    "email": "brendan@murty.au",
+    "url": "https://brendan.murty.au"
+  },
+  "homepage:": "https://github.com/brendanmurty/business-card#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brendanmurty/business-card.git"
+  },
   "keywords": [
     "tutorial",
     "CLI",

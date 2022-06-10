@@ -12,6 +12,11 @@ console.log(
 
 console.log(
   "\x1b[47m\x1b[35m %s \x1b[0m",
+  "Email: brendan@murty.au"
+);
+
+console.log(
+  "\x1b[47m\x1b[35m %s \x1b[0m",
   "Website: https://brendan.murty.au"
 );
 
