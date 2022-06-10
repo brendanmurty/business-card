@@ -1,11 +1,12 @@
-# Fancy Business Card
+# Business Card
 
-This is a demo repository to show how to create a CLI tool that outputs a business card to the terminal.
+NPM package that shows my basic public contact details.
 
-Read the tutorial here: [Build a business card CLI tool](https://whitep4nth3r.com/blog/build-a-business-card-cli-tool/)
+Created by following [whitep4nth3r](https://github.com/whitep4nth3r)'s tutorial here:
+[Build a business card CLI tool](https://whitep4nth3r.com/blog/build-a-business-card-cli-tool/)
 
-To run:
+## View the business card on your own machine
 
-```bash
-npx fancy-business-card
+```
+npx brendanmurty
 ```
