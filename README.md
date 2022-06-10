@@ -7,6 +7,8 @@ Created by following [whitep4nth3r](https://github.com/whitep4nth3r)'s tutorial 
 
 ## View the business card on your own machine
 
+After installing [Node and NPM](https://nodejs.org/), open a terminal and run:
+
 ```
 npx brendanmurty
 ```
