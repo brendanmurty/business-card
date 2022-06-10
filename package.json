@@ -1,13 +1,13 @@
 {
-  "name": "fancy-business-card",
-  "version": "1.0.1",
-  "description": "A boilerplate to create a fancy business card that outputs to the terminal using npx.",
+  "name": "brendanmurty",
+  "version": "1.0.0",
+  "description": "Shows basic public contact details for Brendan Murty",
   "main": "index.js",
   "bin": {
-    "fancy-business-card": "./index.js"
+    "brendanmurty": "./index.js"
   },
   "scripts": {},
-  "author": "whitep4nth3r",
+  "author": "brendanmurty",
   "keywords": [
     "tutorial",
     "CLI",
