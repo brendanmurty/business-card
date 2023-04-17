@@ -12,3 +12,12 @@ After installing [Node and NPM](https://nodejs.org/), open a terminal and run:
 ```
 npx brendanmurty
 ```
+
+## Update process
+
+After applying your updates, increment the `version` value in [package.json](package.json), then:
+
+```
+npm login
+npm publish
+```
