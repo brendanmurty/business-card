@@ -7,7 +7,7 @@ console.log(
 
 console.log(
   "\x1b[47m\x1b[30m %s \x1b[0m",
-  "Father, Senior Software Engineer and Schnitzel Reviewer."
+  "Father, Schnitzel Reviewer and Lead Software Engineer"
 );
 
 console.log(
@@ -17,7 +17,7 @@ console.log(
 
 console.log(
   "\x1b[47m\x1b[35m %s \x1b[0m",
-  "Website: https://brendan.murty.au"
+  "Website: https://murty.au"
 );
 
 console.log(
